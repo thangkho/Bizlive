@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/category_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ProgressBar
+        android:id="@+id/prLoading"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_centerInParent="true"
+        android:indeterminateDrawable="@drawable/custom_progress_loading"/>
+
+    <tuannt.bizlive.custom.CustomGridView
+        android:id="@+id/gv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:horizontalSpacing="5dp"
+        android:numColumns="2"
+        android:padding="5dp" />
+
+    <com.github.ksoichiro.android.observablescrollview.ObservableListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </com.github.ksoichiro.android.observablescrollview.ObservableListView>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:padding="20dp"
+
+        >
+
+        <ImageView
+            android:id="@+id/ivBackToTop"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/backtotop"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+    <TextView
+
+        android:id="@+id/tvError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/lnError"
+        android:layout_centerHorizontal="true"
+        android:text="Đã có lỗi xảy ra. Vui lòng kiểm tra lại kết nối"
+        android:textColor="#df0202"
+        android:visibility="gone"
+        android:layout_marginBottom="5dp"/>
+
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/lnError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnWifi"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/border_error"
+            android:text="Wifi"
+            android:textColor="#ffffff"
+
+            />
+        <Button
+            android:layout_marginLeft="5dp"
+            android:id="@+id/btn3g"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/border_error"
+            android:text="3G"
+            android:textColor="#ffffff"
+            />
+        <Button
+            android:layout_marginLeft="5dp"
+            android:id="@+id/btnError"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/border_error"
+            android:text="Thử lại"
+            android:textColor="#ffffff"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

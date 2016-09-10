@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_inverse_icon.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\custom_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_icon_selected.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_list_divider.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_top_button.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_top_button.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_grey_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_profile_picture_blank_square.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_loading.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\custom_loading.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_place_default_icon.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_like.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_grey_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\layout_menu.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\layout_menu.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_selected.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_like_selected.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_blue_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_progessbar.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\custom_progessbar.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_picker_top_button.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_checkbox.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\custom_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_check_on.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_top_background.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_top_background.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_close.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_profile_default_icon.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border_error.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\border_error.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_loginbutton_silver.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_blue.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_menu.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\background_menu.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_list_section_header_background.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\cusomt_bolder.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\cusomt_bolder.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_grey_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_picker_list_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_box.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\dialog_box.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\divider.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_background.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_progress_loading.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\custom_progress_loading.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_blue_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_picker_list_selector.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_icon.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_buttonshare.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\custom_buttonshare.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_picker_list_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_check.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_check.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_check_off.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_pressed.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\borderbutton.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\borderbutton.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\style_progress.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\style_progress.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_progressbar.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\border.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_picker_item_background.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_like_background_selected.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_scrubber_control.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\red_scrubber_control.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_scrubber_progress.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\red_scrubber_progress.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_picker_list_longpressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\custom_back_category_pressed.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable\\custom_back_category_pressed.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_button_blue_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\com_facebook_logo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable\\com_facebook_logo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    }
+]

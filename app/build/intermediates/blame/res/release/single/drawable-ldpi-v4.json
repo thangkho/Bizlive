@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\com_facebook_close.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-ldpi-v4\\com_facebook_close.png"
+    }
+]

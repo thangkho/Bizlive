@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_headerlist_activity.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_headerlist_activity.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_item_list.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_item_list.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_playlist.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_playlist.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_more.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\button_more.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_item_gridview_home.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_item_gridview_home.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_row.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vd1.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\vd1.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_intro.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_section_header.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_friendpickerfragment.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_list.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_list.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_listcategory.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\fragment_listcategory.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_activity_circle_row.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_binhluan.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_binhluan.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_image.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_slideimageview.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_slideimageview.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_h.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\item_h.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_send_email.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_send_email.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_notification.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_notification.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_category_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\grid_category_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_logincomment.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\dialog_logincomment.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_checkbox.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listcategory.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_listcategory.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category_viewpager.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\fragment_category_viewpager.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bookmark.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_bookmark.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settingpush.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_settingpush.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_headerlistcategory.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_headerlistcategory.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_gridview_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\home_gridview_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_view.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\footer_view.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loading.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vd.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\vd.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_loading.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\footer_loading.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridcategory.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\item_gridcategory.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_usersettingsfragment.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_item_list_home.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_item_list_home.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment_list_row.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_content.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_content.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_textview.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\item_textview.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragmentcategory.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\fragmentcategory.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_connecterror.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\dialog_connecterror.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar_stub.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activiti_pushnotification.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activiti_pushnotification.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\fragment_home_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_activity_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\header_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_listimg.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\fragment_listimg.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_notification_big.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_notification_big.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_two.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\comment_two.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_search_bar_layout.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_item_list_related.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\custom_item_list_related.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_screen_slide.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\layout\\activity_screen_slide.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_search_box.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\layout\\com_facebook_picker_search_box.xml"
+    }
+]

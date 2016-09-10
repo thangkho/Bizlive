@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\menu\\item_p_menu_link.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\menu\\item_p_menu_link.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\menu\\item_remove_popup_link.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\menu\\item_remove_popup_link.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_content.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\menu\\menu_content.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_loading.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\menu\\menu_loading.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\menu\\item_remove_popup.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\menu\\item_remove_popup.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\menu\\item_player.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\menu\\item_player.xml"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\menu\\item_p_menu.xml",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\menu\\item_p_menu.xml"
+    }
+]

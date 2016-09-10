@@ -1,0 +1,806 @@
+[
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\page.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\page.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progress_red.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\progress_red.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_blue_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_share002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_share002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_like_background.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\logo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_next.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_next.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\setting.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_cmt001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_cmt001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_head1.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_head1.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\search002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_search002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_search002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_share.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_share.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading008.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading008.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_like002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_like002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xemnhieu.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\xemnhieu.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_pause2.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_pause2.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\error.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\error.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_popular001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\navi_popular001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_blue_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mark001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\mark001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\menu_logout.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\menu_logout.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\imgback.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\imgback.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrowright.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\arrowright.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_scrubber_secondary_holo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_secondary_holo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\menu_about.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\menu_about.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\category002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\category002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_back.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_back.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading005.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading005.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_scrubber_primary_holo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_primary_holo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_inverse_icon.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrowleft3.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\arrowleft3.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\background.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_loading.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_loading.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_play1.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_play1.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btnface.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\btnface.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_sms.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\share_sms.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_like001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_like001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_face.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\share_face.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\home002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\home002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_grey_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_gg.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\share_gg.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\new002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\new002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_close.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading007.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading007.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_download.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_download.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_like_background_selected.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dot.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\dot.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\placeholder.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\placeholder.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_back_gray.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_back_gray.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_deleteaudio.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_deleteaudio.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\backtotop.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\backtotop.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_play2.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_play2.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_blue_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading006.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading006.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_a002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_a002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_cmt002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_cmt002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\category001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\category001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_mail.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\share_mail.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_share001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_share001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\search001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_search001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_search001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_logo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_logo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrowlef002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\arrowlef002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\top_a001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\top_a001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\switch_yes.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\switch_yes.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\arrowleft.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\arrowleft.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\menu_setting.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\menu_setting.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_scrubber_control_pressed_holo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mark.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\mark.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_dropmenu002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\navi_dropmenu002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_head.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_head.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_headed.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_headed.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_scrubber_control_focused_holo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\comment.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\comment.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_popular002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\navi_popular002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_grey_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_sharepress.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_sharepress.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_like_icon.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\switch_no.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\switch_no.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_bgrwv.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_bgrwv.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_back_white.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_back_white.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_head2.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_head2.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_tweet.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\share_tweet.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_scrubber_control_normal_holo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\home001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\home001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_delete.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_delete.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_link.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\share_link.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\new001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\new001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\thumbler_small.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\thumbler_small.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\marked.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\marked.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_prev.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\icon_prev.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bgr_viewpager.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\bgr_viewpager.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_viber.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\share_viber.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\progress_cyan.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\progress_cyan.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading004.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading004.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\mark002.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\mark002.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_scrubber_control_disabled_holo.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\red_scrubber_track_holo_light.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\red_scrubber_track_holo_light.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\navi_dropmenu001.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\navi_dropmenu001.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\send.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\user.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\share_safari.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\share_safari.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\nomage.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\nomage.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_like_pressed.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\menu.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading009.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading009.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\cmt.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\cmt.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\loading003.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\loading003.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\page_press.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\page_press.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_button_grey_normal.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\com_facebook_picker_magnifier.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook\\3.23.1\\res\\drawable-hdpi-v4\\com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    }
+]

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#ffffff"
+    android:paddingTop="15dp"
+    android:paddingBottom="15dp"
+   >
+
+    <RelativeLayout
+        android:layout_width="70dp"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imgAvatar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="5dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginRight="15dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvUserName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nguyen Van A"
+                android:textColor="#BD4A51" />
+
+            <TextView
+                android:id="@+id/tvDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:layout_alignParentRight="true"
+                android:text="20:30 25/12/2015"
+                android:textColor="#E3E3E3" />
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tvContentComment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="8dp"
+            android:textSize="18dp"
+
+            android:text="The question had been asked and there had been a promise made for the very version of Picasso that I am using: How do I send a circular bitmap to an ImageView using Picasso? I am very new to Picasso and only thing I have used so far is"
+            android:textColor="#363636" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tvNumLike"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/imgLikeComment"
+                android:layout_marginRight="2dp"
+                android:text="0"
+                android:textColor="#E3E3E3"/>
+
+            <ImageView
+                android:id="@+id/imgLikeComment"
+                android:layout_alignParentRight="true"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/top_like002" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

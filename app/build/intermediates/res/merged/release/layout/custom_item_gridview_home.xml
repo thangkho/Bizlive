@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp">
+
+    <tuannt.bizlive.custom.ImageGridHome
+        android:id="@+id/ivGridHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:id="@+id/ivDanhdau"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/marked"
+
+        android:visibility="gone" />
+
+
+    <RelativeLayout
+        android:id="@+id/tlGridHome"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/ivGridHome"
+        android:layout_below="@+id/ivGridHome"
+        android:layout_marginBottom="5dp">
+
+        <TextView
+            android:id="@+id/tvGridHome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="3"
+            android:padding="2dp"
+            android:text="TextView"
+            android:textColor="#9A9A9A"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imgHead"
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="2dp"
+        android:src="@drawable/icon_head1" />
+
+</RelativeLayout>

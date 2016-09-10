@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libandroid20150626">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/libandroid20150626.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

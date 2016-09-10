@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="horizontal"
+    android:padding="1dp"
+    android:weightSum="1000">
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginRight="2dp"
+        android:layout_weight="600"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+
+        >
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:textSize="17dp" />
+
+
+        <ImageView
+            android:layout_marginTop="5dp"
+            android:layout_below="@+id/tvTitle"
+            android:id="@+id/imgHead"
+            android:src="@drawable/icon_head1"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+
+        android:layout_weight="400"
+
+        >
+
+        <tuannt.bizlive.custom.CustomImageListView
+            android:id="@+id/ivAvater"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/nomage" />
+
+        <LinearLayout
+            android:id="@+id/linear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal"
+            android:paddingBottom="3dp"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/ivXemsau"
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content"
+                android:src="@drawable/marked" />
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

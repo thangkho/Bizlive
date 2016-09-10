@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <tuannt.bizlive.custom.ImageHeaderGird
+        android:id="@+id/ivHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        />
+
+    <ImageView
+        android:id="@+id/ivDanhdau"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/marked"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:visibility="gone"/>
+
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ivGridHome"
+        android:layout_alignRight="@+id/ivGridHome"
+        android:layout_below="@+id/ivHeader"
+        android:background="#9D001A" >
+
+        <TextView
+            android:id="@+id/tvTitleHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="TextView"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:padding="10dp"/>
+    </RelativeLayout>
+
+</RelativeLayout>

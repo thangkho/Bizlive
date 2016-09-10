@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+    <ImageView
+        android:id="@+id/imgAvatar"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+       />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:layout_marginLeft="5dp"
+        android:layout_alignBottom="@+id/imgAvatar"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/imgAvatar" >
+
+        <TextView
+            android:id="@+id/tvUserName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#BD4A51"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/tvContentComment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textColor="#363636"
+            android:layout_marginTop="4dp"
+            android:layout_below="@+id/tvUserName"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/tvContentComment"
+            android:layout_alignParentRight="true"
+            android:textColor="#E3E3E3"
+            android:text="TextView" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:padding="2dp" >
+
+            <TextView
+                android:id="@+id/tvTotalLike"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="2dp"
+                android:text="0"
+                android:textColor="#E3E3E3"/>
+
+            <ImageView
+                android:id="@+id/imgLikeComment"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/top_like002" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

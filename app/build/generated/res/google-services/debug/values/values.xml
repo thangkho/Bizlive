@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">311361894328-4uk4232d26qhvdec1mck5hsueomp5o4s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bizlive-179f7.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">311361894328</string>
+    <string name="google_api_key" translatable="false">AIzaSyCjz6zPqpTNc4YL0xGvJUtmA7vDYv6LS0g</string>
+    <string name="google_app_id" translatable="false">1:311361894328:android:ad3540286e8b19c8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjz6zPqpTNc4YL0xGvJUtmA7vDYv6LS0g</string>
+    <string name="google_storage_bucket" translatable="false">bizlive-179f7.appspot.com</string>
+</resources>

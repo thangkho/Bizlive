@@ -1,0 +1,153 @@
+-injars 'F:\Amobi-2016\Bizlive\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'F:\Amobi-2016\Bizlive\app\build\intermediates\multi-dex\release\componentClasses.jar'
+
+-libraryjars 'C:\Users\TranHoa\AppData\Local\Android\Sdk\build-tools\23.0.0\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'F:\Amobi-2016\Bizlive\app\build\intermediates\multi-dex\release\components.flags'
+
+
+-keep class tuannt.bizlive.activity.MyApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class tuannt.bizlive.activity.ListCategoryActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.LoadingActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.MainActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.ReadingActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.SearchActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.BookmarkActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.IntroActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.SettingActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.ReadingBookMarkActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.CommentActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.PushNotificationActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.SlideImageActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.PushComment {
+    <init>();
+}
+
+-keep class com.facebook.LoginActivity {
+    <init>();
+}
+
+-keep class com.microsoft.windowsazure.notifications.NotificationsBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.SettingPushActivity {
+    <init>();
+}
+
+-keep class tuannt.bizlive.mediasever.SongService {
+    <init>();
+}
+
+-keep class tuannt.bizlive.mediasever.NotificationBroadcast {
+    <init>();
+}
+
+-keep class tuannt.bizlive.activity.ListNewActivity {
+    <init>();
+}
+
+-keep class android.support.v7.widget.TestActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

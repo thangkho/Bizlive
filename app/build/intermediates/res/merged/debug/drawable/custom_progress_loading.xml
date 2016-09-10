@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading001" android:scaleGravity="center" />
+    </item>
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading002" android:scaleGravity="center" />
+    </item>
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading003" android:scaleGravity="center" />
+    </item>
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading004" android:scaleGravity="center" />
+    </item>
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading005" android:scaleGravity="center" />
+    </item>
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading006" android:scaleGravity="center" />
+    </item>
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading007" android:scaleGravity="center" />
+    </item>
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading008" android:scaleGravity="center" />
+    </item>
+    <item android:duration="100">
+        <scale android:drawable="@drawable/loading009" android:scaleGravity="center" />
+    </item>
+
+</animation-list>

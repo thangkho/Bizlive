@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageView2"
+        android:src="@drawable/menu_about"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/connect_error"
+        android:id="@+id/textView4"
+        android:layout_gravity="center_horizontal" />
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wifi"
+            android:layout_marginLeft="20dp"
+
+            android:background="@drawable/borderbutton"
+            android:textColor="#ffffff"
+            android:id="@+id/btnWifi" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Đã Lưu"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/borderbutton"
+            android:textColor="#ffffff"
+            android:id="@+id/btnMarked" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="Đóng"
+            android:background="@drawable/borderbutton"
+            android:textColor="#ffffff"
+            android:id="@+id/btnClosed" />
+
+    </LinearLayout>
+
+</LinearLayout>

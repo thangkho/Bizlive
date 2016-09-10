@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "311361894328",
+    "firebase_url": "https://bizlive-179f7.firebaseio.com",
+    "project_id": "bizlive-179f7",
+    "storage_bucket": "bizlive-179f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311361894328:android:ad3540286e8b19c8",
+        "android_client_info": {
+          "package_name": "amb.app.bizlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311361894328-9ubol484h8te10bd4ch4q6qfoloqmn3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amb.app.bizlive",
+            "certificate_hash": "9A072F8B12D2EAFCEE5292FAFE586BA3DD325C46"
+          }
+        },
+        {
+          "client_id": "311361894328-4uk4232d26qhvdec1mck5hsueomp5o4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjz6zPqpTNc4YL0xGvJUtmA7vDYv6LS0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311361894328-4uk4232d26qhvdec1mck5hsueomp5o4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

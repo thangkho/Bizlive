@@ -1,0 +1,188 @@
+[
+    {
+        "outputFile": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 716
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 721,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 571,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1770
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1100,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1775,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2310
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1627,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2315,
+                    "endColumn": 78,
+                    "endOffset": 2389
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2168,
+                        "endColumn": 79,
+                        "endOffset": 2243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2394,
+                    "endColumn": 92,
+                    "endOffset": 2482
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2249,
+                        "endColumn": 93,
+                        "endOffset": 2338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2487,
+                    "endColumn": 90,
+                    "endOffset": 2573
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2344,
+                        "endColumn": 91,
+                        "endOffset": 2431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2578,
+                    "endColumn": 104,
+                    "endOffset": 2678
+                },
+                "from": {
+                    "file": "F:\\Amobi-2016\\Bizlive\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\values-v14\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2437,
+                        "endColumn": 105,
+                        "endOffset": 2538
+                    }
+                }
+            }
+        ]
+    }
+]

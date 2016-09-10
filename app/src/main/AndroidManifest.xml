@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tuannt.bizlive.activity"
+    android:versionCode="18"
+    android:versionName="1.2.8" >
+
+    <uses-sdk android:minSdkVersion="14" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="tuannt.bizlive.activity.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="tuannt.bizlive.activity.permission.C2D_MESSAGE" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name=".MyApplication"
+        android:icon="@drawable/icon_bizlive"
+        android:label="BizLIVE"
+        android:theme="@style/AppBaseTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/appId" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <!-- <activity -->
+        <!-- android:name=".MainActivity" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- android:screenOrientation="portrait" /> -->
+        <activity
+            android:name=".ListCategoryActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LoadingActivity"
+            android:label="BizLIVE"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!-- deeplink -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="app.bizlive.vn"
+                    android:pathPrefix="/"
+                    android:scheme="http" />
+            </intent-filter>
+
+            <!-- handle app links -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="bizlive.com" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="BizLIVE"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ReadingActivity"
+            android:label="BizLIVE"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SearchActivity"
+            android:label="@string/title_activity_se"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".BookmarkActivity"
+            android:label="@string/title_activity_account"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".IntroActivity"
+            android:label="@string/title_activity_account"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SettingActivity"
+            android:label="@string/title_activity_setting"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ReadingBookMarkActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".CommentActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name=".PushNotificationActivity"
+            android:screenOrientation="portrait" >
+
+            <!-- deeplink -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="bizlive.vn"
+                    android:pathPrefix="/"
+                    android:scheme="http" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SlideImageActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name=".PushComment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.microsoft.windowsazure.notifications.NotificationsBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="tuannt.bizlive.activity" />
+            </intent-filter>
+        </receiver>
+        <!-- Include the AdActivity configChanges and theme. ads admob -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+        <!-- ads amobi -->
+        <meta-data
+            android:name="vn.amobi.util.ads.widget_id"
+            android:value="0f47bce2d4957111aeee4b959723d783" />
+
+        <activity android:name=".SettingPushActivity" />
+
+        <service
+            android:name="tuannt.bizlive.mediasever.SongService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver android:name="tuannt.bizlive.mediasever.NotificationBroadcast" >
+            <intent-filter>
+                <action android:name="tuannt.bizlive.audioplayer.delete" />
+                <action android:name="tuannt.bizlive.audioplayer.pause" />
+                <action android:name="tuannt.bizlive.audioplayer.next" />
+                <action android:name="tuannt.bizlive.audioplayer.play" />
+                <action android:name="tuannt.bizlive.audioplayer.previous" />
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".ListNewActivity" >
+        </activity>
+    </application>
+
+</manifest>

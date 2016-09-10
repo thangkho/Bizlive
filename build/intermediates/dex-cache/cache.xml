@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-7558ac5e04ef3ddeba5c00ed8ff08de9e4245be0.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\libs\notifications-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d2498fce7adbdb5ebd37dafc56d8056db60f51fe">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\notifications-1.0.1-255b3c3f87784f6a9ec0c55e07b3eecbd0e22ada.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-b02d5f0bbb77641e1684f83d7fa0b9acc540cbd4.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-413ee4be1d96487fd149e20e62437cdd4f03a335.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-2c49f0ffa9e8b03a4c3a3e448c4819e4eb6df287.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-6d2c0a870a5dcee06ac3dc275c91bc0de0b66aea.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-5f909bd5d59b9ea31dc731cd901abfc8ccd4af70.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-cd5a4a7de48d487ad03b61b60c6e963f60266828.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\glide-3.5.2-ea43fa33689a18fd8d7307d472bff1ec5c77700e.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\libs\notification-hubs-0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5665f8e79e2d89a83af0f915e5fcc93b9ae6747b">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\notification-hubs-0.3-86ed21ffa7dfd8b230f811a41fb19a5e073324e3.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-d25a3584bfbbfca8a9a35cef81411f14c18971ba.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\libs\android-support-design.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c32bdafabc6bf7ac9a3bc88b33e5f7286e982be5">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\android-support-design-09b9baa2c3ce6a40bb18dd0d1314288dbe097f2e.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-c8517643692914b611b3528e0bdc741895106977.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-c199b0851fbc71aeccaca383e6b9b18336c7e64b.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-4e35c05b0d84667230cc355b0f211add743b3132.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\gson-2.2.4-752a4694a6e7953de1b9e1ac68ee96a302f761f3.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="db1e65d9e3ee616f871cb23120fbea8f18ad3e4c">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-3bd7848523458e277af19fbf0a6e61863ad4da75.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-195dcc0d90a445e6bcd53da8ee8fbfdc7e7cd9a8.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-63d73b8891b558c576522ff7887ab23228822650.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-052d33bc4e2b96f77cebf72e8e311536e9b4c2fe.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-71517d239038837dca5f87f2b55e17cc0518f7a4.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-99411674ef4dabf564964dc84ca99a9e6b2826b4.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a78b0aa2f09ef4e58b610ef62bda1dcd629475f8.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-fe52cb9c1f9fc9e55c76fc26a22edfd247939eb7.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\apache-mime4j-0.6-76c291a36e99adcee16ed999a03ff19dfaa28318.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-e3a8173dd3c58289a8b7e94ffe56b140824ed4e4.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-c5205a1a39efa915bb1f7edea4c2f9fdcff4b01f.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-120b55bd033386f6fa8e9379f0055265f0bf7706.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-076978b4faeb1113a381f7a8a98a987852e3dc40.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-1482e7df322e613b2e531ae700ee49f44145b6f5.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-2f519882c80fb4b0314cdeaf6588174002b834ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-a27a8f82ac0b46c0541b7fd779ecc0cc456b9053.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-dc1a914dfa6ac1d4a9fe09e05f770dd620722420.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-874f31617d54738fe8c531578732d508237d044a.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-2e35f8742bdb765cd5428af87222488065ee9eae.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.facebook.android\facebook\3.23.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57fb44c76e42b677d92b13bd9f0e02f4ffa30fdc">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-5e63ac0fe6fd8d524b1e631f12f26d8a349aaf06.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-ccbfe934cc257f47d537001868965e58be2c440c.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-94390d7b070f4523059a798fd3552e02d6b93f14.jar" />
+    </item>
+    <item
+        jar="D:\bizlivesvn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\bizlivesvn\app\build\intermediates\pre-dexed\debug\classes-51da0290dcfa8ec77298d6036185258ab3f27770.jar" />
+    </item>
+
+</items>
